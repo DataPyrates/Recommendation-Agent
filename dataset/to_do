@@ -1,0 +1,40 @@
+
+
+
+
+{   
+"auswählen": "select",
+"wählen" : "select", 
+"abrufen": "select",
+"von":"from",
+"aus":"from" ,
+"wo":"where" ,
+"wenn":"where" ,
+"und":"and" ,
+"oder":"or",
+"nicht":"not",
+"einfügen":"insert" ,
+"einsetzen":"insert" ,
+"aktualisieren":"update" ,
+"updaten":"update" ,
+"löschen": "delete" , 
+"entfernen": "delete",
+"erstellen":"create", 
+"anlegen":"create",
+"Tabelle":"table" ,
+"Index":"index" ,
+"auf":"on" ,
+"an":"on" ,
+"Primärschlüssel":"primary key" ,
+"Fremdschlüssel":"foreign key" ,
+"verbinden":"join" , 
+"verknüpfen":"join" ,
+"Innerer Join":"inner join" ,
+"Linker Join":"left join",
+"Rechter Join":"right join" ,
+"Vollständiger äußerer Join":"full outer join",
+"Gruppieren nach":"group by" ,
+"Sortieren nach":"order by" ,
+"aufsteigend":"asc" ,
+"absteigend":"desc" 
+}
